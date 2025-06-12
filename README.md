@@ -15,3 +15,4 @@ Repositório dedicado ao armazenamento de exercícios realizados durante o curso
 9. [Tratamento de exceções](https://github.com/G-OliverDev/udemy-curso-csharp-completo/tree/main/exercicios/9-tratamento-de-excecoes)
 10. [Leitura e gravação de arquivos](https://github.com/G-OliverDev/udemy-curso-csharp-completo/tree/main/exercicios/10-leitura-e-gravacao-de-arquivos)
 11. [Interfaces](https://github.com/G-OliverDev/udemy-curso-csharp-completo/tree/main/exercicios/11-interfaces)
+12. [Generics, set e dictionary](https://github.com/G-OliverDev/udemy-curso-csharp-completo/tree/main/exercicios/12-generics-set-dictionary)
